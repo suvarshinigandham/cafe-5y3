@@ -1,3 +1,4 @@
-tea 20
+tea 25
 coffe 30
 sandwich 50
+jucie 40
